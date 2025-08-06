@@ -1,6 +1,6 @@
 # Cadastro de Usuários
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML
 - CSS
 - JavaScript
